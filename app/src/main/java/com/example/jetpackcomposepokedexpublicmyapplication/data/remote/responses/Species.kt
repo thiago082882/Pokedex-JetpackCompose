@@ -1,0 +1,6 @@
+package com.example.jetpackcomposepokedexpublicmyapplication.data.remote.responses
+
+data class Species(
+    val name: String,
+    val url: String
+)
